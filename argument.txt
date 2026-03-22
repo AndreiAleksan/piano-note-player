@@ -1,0 +1,3 @@
+Make a screen with a piano
+Make code that accepts keyboard keys as piano keys
+when key pressed, make sound
