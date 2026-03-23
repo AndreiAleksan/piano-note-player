@@ -1,4 +1,4 @@
-# Digital Piano
+# Piano note player
 
 ## Description
 Primitive piano that detects inputed keys and plays the corresponding notes.
